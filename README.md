@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=daikin555)
+
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=daikin555&repo=rust-training)
 <!--
 **daikin555/daikin555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
